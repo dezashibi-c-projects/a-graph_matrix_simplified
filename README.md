@@ -42,7 +42,7 @@ int main()
 }
 ```
 
-In this example, we define a graph with 4 nodes. The adjacency matrix shows the connections between these nodes. For instance, node `0` is connected to nodes `1` and `3`, as indicated by the `1`s in the matrix.
+In this example, a graph with 4 nodes is defined. **The adjacency matrix** shows the connections between these nodes. For instance, node `0` is connected to nodes `1` and `3`, as indicated by the `1`s in the matrix.
 
 ### Practical Example: Lexical Analysis
 
